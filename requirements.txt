@@ -1,0 +1,18 @@
+cvxpy==1.2.0
+cvxopt==1.3.0
+matplotlib==3.5.0
+matplotlib-inline==0.1.3
+numpy==1.19.5
+opencv-python==4.5.4.60
+pandas==1.3.4
+scikit-learn==1.0.1
+scipy==1.7.2
+pyemd==0.5.1
+sklearn==0.0
+tqdm==4.62.3
+medmnist==2.1.0
+openpyxl
+seaborn
+
+# torch -f https://download.pytorch.org/whl/cu111/torch-1.8.1%2Bcu111-cp37-cp37m-linux_x86_64.whl
+# torchvision -f https://download.pytorch.org/whl/cu111/torchvision-0.9.1%2Bcu111-cp37-cp37m-linux_x86_64.whl
