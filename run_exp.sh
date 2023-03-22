@@ -1,7 +1,7 @@
 # Change arguments
 
 seeds="1"
-al_method="logo" 
+al_method="logo" # random, entropy, coreset, badge, gcnal, alfa_mix, logo
 dataset="cifar10"
 dd_beta="0.1"
 
