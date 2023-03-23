@@ -2,7 +2,7 @@
 # [Official] Re-thinking Federated Active Learning based on Inter-class Diversity
 
 ---
-This repository is the official implementation of "Re-thinking Federated Active Learning based on Inter-class Diversity" paper presented in CVPR 2023. 
+This repository is the official implementation of "Re-thinking Federated Active Learning based on Inter-class Diversity" paper presented in CVPR 2023. [[Paper](https://arxiv.org/abs/2303.12317)]
 
 ---
 
@@ -96,3 +96,9 @@ python main.py --seed 1  \
 ## Experimental Result
 ![exp_bar](https://user-images.githubusercontent.com/12638561/202088590-48b421ec-11a2-4319-a106-3cda808d255f.png)
 ![exp_results](https://user-images.githubusercontent.com/12638561/202088388-716f6693-de59-4d77-a3b5-0b809379091c.png)
+
+## Contact
+Feel free to contact us if you have any questions:)
+
+- SangMook Kim: sangmook.kim@kaist.ac.kr
+- Sangmin Bae: bsmn0223@kaist.ac.kr
